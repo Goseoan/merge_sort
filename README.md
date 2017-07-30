@@ -1,6 +1,6 @@
 #### merge_sort
 
-##compile
+#compile
 ```
 make
 ```
