@@ -1,8 +1,8 @@
 
-#### merge_sort     
+# merge_sort     
 
 
-# compile
+### compile
 
 ```
 make
