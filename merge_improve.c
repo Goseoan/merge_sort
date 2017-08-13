@@ -1,6 +1,8 @@
 
 #include "merge.h"
 
+
+// Perform bubble sorting 1 time
 void bubble( int * ary,int max)
 {
 	int i, j, swap;
